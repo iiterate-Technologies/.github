@@ -1,3 +1,9 @@
+
+
+<img width="1584" height="396" alt="Main cover photo" src="https://github.com/user-attachments/assets/0022741f-13c0-4ea5-a052-d1cfe9d4b8cb" />
+
+
+
 # **Welcome to iiterate Technologies**
 
 🚀 About Us
